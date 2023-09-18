@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Castoro+Titling&family=Courgette&family=Dancing+Script:wght@700&family=Edu+SA+Beginner:wght@500&family=Fasthand&family=Lugrasimo&family=Oswald&family=Pacifico&family=Permanent+Marker&family=Press+Start+2P&display=swap');
+#bimg{
+    font-family: 'Lugrasimo', cursive;
+    font-weight: bold;
+}
+.home{
+    background-color: darkgrey;
+}
+.image{
+    width: 100%;
+    height: 650px;
+}
+.in{
+    background-color: rgb(255, 250, 173);
+}
+.fp{
+    color: aliceblue;
+    justify-self: end;
+}
+.bt{
+    background-color:  rgb(255, 250, 173);
+}
+.bt:hover{
+    color: azure;
+}
+.bor{
+    margin-top: 20px;
+    border-bottom: dotted;
+    border-color:burlywood
+}
+.para{
+    color: aliceblue;
+    text-align: center;
+}
+.bt1{
+    background-color:  rgb(255, 250, 173);
+}
+.bt1:hover{
+    color: aliceblue;
+}
+.bt2{
+    margin-top: 60px;
+}
+.box{
+    padding: 25px;
+}
+.back{
+    background-color:  rgb(255, 250, 173);
+}
+.back:hover{
+    color: aliceblue;
+}
+.outline{
+    border-style: ridge;
+    padding: 25px;
+    border-radius: 15px;
+    border-width: 5px;
+}
+.greet{
+    color: azure;
+    font-size: x-large;
+    font-weight: bold;
+}
+.boxes{
+    border-style: ridge;
+    padding: 55px;
+    border-radius: 15px;
+    border-width: 5px;
+}
+.B{
+    padding: 25px;
+}
